@@ -2,8 +2,6 @@
 
 ##### Example 1: Survival Analysis Using SAS&reg; Enterprise Miner&trade;
 
-![alt text](../README_imgs/Survival.png "Survival")
-
 ###### Goal:
 The goal is to estimate when customers will cancel their subscription (churn). Estimating when customers will cancel 
 subscriptions (as opposed to predicting which customers will cancel or whether they will cancel) enables you to view 
@@ -17,8 +15,6 @@ Survival.xml, Survival.pdf
 ***
 
 ##### Example 2: Survival Analysis with Time-Varying Covariates Using SAS&reg; Enterprise Miner&trade;
-
-![alt text](../README_imgs/SurvivalTVC.png "Survival TVC")
 
 ###### Goal:
 The goal is to determine when a customer is most likely to upgrade. Estimating when customers upgrade (as 

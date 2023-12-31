@@ -2,8 +2,6 @@
 
 ##### Example 1: Predictive Modeling in SAS&reg; Enterprise Miner&trade;
 
-![alt text](../README_imgs/PredictiveModeling.png "Predictive Modeling")
-
 ###### Goal:
 The goal is to create a model to predict which home loans will be bad loans (that is, will be defaulted on).
 
@@ -13,8 +11,6 @@ PredictiveModeling.xml, PredictiveModeling.pdf
 ***
 
 ##### Example 2: High-Performance Predictive Modeling Using SAS&reg; Enterprise Miner&trade;
-
-![alt text](../README_imgs/HPPredictiveModeling.png "HP Predictive Modeling")
 
 ###### Goal:
 The goal is to create a model for a binary target that predicts which home loans are likely to be defaulted. This flow 
@@ -29,8 +25,6 @@ HPPredictiveModeling.xml, HPPredictiveModeling.pdf
 ***
 
 ##### Example 3: SAS&reg; High-Performance Analytics tip #3: Example flow diagram in SAS&reg; Enterprise Miner&trade;
-
-![alt text](../README_imgs/HPPredictiveModelingTip.png "HP Predictive Modeling Tip")
 
 ###### Goal:
 Read about this example on SAS communities site at: <https://communities.sas.com/t5/SAS-Communities-Library/SAS-High-Performance-Analytics-tip-3-Example-flow-diagram-in-SAS/ta-p/248960>

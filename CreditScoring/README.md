@@ -2,8 +2,6 @@
 
 ##### Example 1: Scorecard and Reverse Scorecard Using Credit Scoring for SAS&reg; Enterprise Miner&trade;
 
-![alt text](../README_imgs/ReverseScorecard.png "Reverse Scorecard")
-
 ###### Goal:
 Scorecards are the standard model for credit scoring because they are easy to interpret and their output can be easily used to 
 score new applications. This flow diagram shows the basic steps to build a scorecard and a reverse scorecard. In the output of a 
@@ -16,8 +14,6 @@ ReverseScorecard.xml, ReverseScorecard.pdf
 ***
 
 ##### Example 2: Reject Inference Using Credit Scoring for SAS&reg; Enterprise Miner&trade;
-
-![alt text](../README_imgs/RejectInference.png "Reject Inference")
 
 ###### Goal:
 A scorecard that is developed using only the accepted applicants may incur sample bias. The goal of a reject inference 
