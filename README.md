@@ -1,17 +1,15 @@
-# SAS Enterprise Miner Data Mining Examples
 ## Overview
 This repository contains example diagrams and materials for using SAS Enterprise Miner to perform data mining.
 
 The repository includes XML files (which represent SAS Enterprise Miner process flow diagrams) for association analysis, 
 clustering, credit scoring, ensemble modeling, predictive modeling, survival analysis, text mining, time series, and accompanying PDF files to help guide you through the process flow diagrams.
 
-- [/Clustering] contains XML and PDF files about running an example for Clustering. 
-- [/CreditScoring] contains XML and PDF files about running an example for Credit Scoring. 
-- [/EnsembleModeling] contains XML and PDF files about running an example for Ensemble Modeling. 
-- [/MARS] contains XML and PDF files about running an example for Multivariate Adaptive Regression Splines (MARS). 
-- [/PredictiveModeling] contains XML and PDF files about running an example for Predictive Modeling. 
-- [/SurvivalAnalysis] contains XML and PDF files about running an example for Survival Analysis. 
-- [/TextMining] contains XML and PDF files about running an example for Text Mining.  Getting Started 
+- Clustering contains XML and PDF files about running an example for Clustering. 
+- CreditScoring contains XML and PDF files about running an example for Credit Scoring. 
+- EnsembleModeling contains XML and PDF files about running an example for Ensemble Modeling. 
+- PredictiveModeling contains XML and PDF files about running an example for Predictive Modeling. 
+- SurvivalAnalysis contains XML and PDF files about running an example for Survival Analysis. 
+- TextMining contains XML and PDF files about running an example for Text Mining.  Getting Started 
 
 Download (and unzip) or clone this repository. The repository contains one directory for each data mining topic 
 (clustering, survival analysis, and so on). Each directory contains one or more example XML files (diagrams) 
